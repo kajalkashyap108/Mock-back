@@ -1,0 +1,7 @@
+{
+    "employees": [
+      { "id": 1, "name": "John Doe", "designation": "Software Engineer", "department": "IT" },
+      { "id": 2, "name": "Jane Smith", "designation": "HR Manager", "department": "HR" }
+    ]
+  }
+  
